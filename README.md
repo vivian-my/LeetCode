@@ -11,3 +11,5 @@
 #### 4. [Merge two linked lists](https://github.com/Vivian-Meng/LeetCode/blob/master/merge_linkedlist.py)
 
 #### 5. [Judge if there is a cycle in a linked list](https://github.com/Vivian-Meng/LeetCode/blob/master/cycle.py)
+
+#### 6. [Judge if two linked lists have an intersection](https://github.com/Vivian-Meng/LeetCode/blob/master/intersection_Linkedlist.py)
