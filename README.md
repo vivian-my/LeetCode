@@ -13,3 +13,7 @@
 #### 5. [Judge if there is a cycle in a linked list](https://github.com/Vivian-Meng/LeetCode/blob/master/cycle.py)
 
 #### 6. [Judge if two linked lists have an intersection](https://github.com/Vivian-Meng/LeetCode/blob/master/intersection_Linkedlist.py)
+
+#### 7. [Delete one specific node](https://github.com/Vivian-Meng/LeetCode/blob/master/deleteNode.py)
+
+#### 8. [Is palidrome](https://github.com/Vivian-Meng/LeetCode/blob/master/isPalidrome.py)
