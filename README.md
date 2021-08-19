@@ -17,3 +17,5 @@
 #### 7. [Delete one specific node](https://github.com/Vivian-Meng/LeetCode/blob/master/deleteNode.py)
 
 #### 8. [Is palidrome](https://github.com/Vivian-Meng/LeetCode/blob/master/isPalidrome.py)
+
+#### 9. [copy a complex linked list](https://github.com/Vivian-Meng/LeetCode/blob/master/complex_linkedlist_hash.py)
